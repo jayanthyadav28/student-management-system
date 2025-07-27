@@ -39,6 +39,7 @@ This is a simple console-based Student Management System built in Java. It allow
 ### 🖥️ Steps to Compile and Run
 
 1. **Clone the Repository**
+2. https://github.com/jayanthyadav28/student-management-system.git
    
 
 
